@@ -162,6 +162,18 @@ This project uses regression models to \*\*predict house prices automatically\*\
 ### API Documentation
 ![API](images/api_docs.png)
 
+### Correlation Heatmap
+![Heatmap](images/correlation_heatmap.png)
+
+### EDA Pairplot
+![EDA](images/eda_pairplot.png)
+
+### Actual vs Predicted
+![Prediction](images/actual_vs_predicted.png)
+
+### Sample Prediction
+![Output](images/sample_prediction.png)
+
 
 
 \## 🖥️ Project Structure
