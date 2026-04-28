@@ -148,6 +148,22 @@ This project uses regression models to \*\*predict house prices automatically\*\
 
 
 
+## 📸 Screenshots
+
+### Dataset Preview
+![Dataset](images/dataset.png)
+
+### Model Prediction Graph
+![Prediction](images/prediction_plot.png)
+
+### Streamlit UI
+![UI](images/streamlit_ui.png)
+
+### API Documentation
+![API](images/api_docs.png)
+
+
+
 \## 🖥️ Project Structure
 
 
