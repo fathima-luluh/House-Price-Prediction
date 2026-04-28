@@ -150,29 +150,23 @@ This project uses regression models to \*\*predict house prices automatically\*\
 
 ## 📸 Screenshots
 
-### Dataset Preview
-![Dataset](images/dataset.png)
-
-### Model Prediction Graph
-![Prediction](images/prediction_plot.png)
-
-### Streamlit UI
-![UI](images/streamlit_ui.png)
-
-### API Documentation
-![API](images/api_docs.png)
+### Actual vs Predicted
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
 ### Correlation Heatmap
 ![Heatmap](images/correlation_heatmap.png)
 
 ### EDA Pairplot
-![EDA](images/eda_pairplot.png)
+![Pairplot](images/eda_pairplot.png)
 
-### Actual vs Predicted
-![Prediction](images/actual_vs_predicted.png)
+### FastAPI Backend
+![API](images/fast_api.png)
+
+### Prediction UI
+![UI](images/prediction.png)
 
 ### Sample Prediction
-![Output](images/sample_prediction.png)
+![Sample](images/sample_prediction.png)
 
 
 
